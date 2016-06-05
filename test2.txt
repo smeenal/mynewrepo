@@ -2,3 +2,5 @@ test file 2
 adding few lines
 ndsfinzsa
 dflbl
+
+I updated this file in master branch
